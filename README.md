@@ -46,6 +46,8 @@ tercer macro:
 ---------------------------------------------------------------
 <img width="1024" height="512" alt="532165089-3956ce7c-4f1b-49bb-8586-029b14da9058" src="https://github.com/user-attachments/assets/9660fc38-eff6-432e-81dd-d643d50e72c8" />
 
+<img width="601" height="579" alt="image" src="https://github.com/user-attachments/assets/03341761-6cfe-451f-980f-b4c523623c2c" />
+
 <img width="984" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8d28ccc-7d6a-460a-b255-a662ae52c3ed" />
 
 <img width="130" height="48" alt="image" src="https://github.com/user-attachments/assets/180ee32f-1f69-45ae-b602-303112ef1518" />
@@ -58,6 +60,7 @@ tercer macro:
 Ahora si ese gato correra en el grand prix como los grandes :D
 
 https://youtu.be/Y01y15wkT48
+
 
 
 
