@@ -44,9 +44,19 @@ tercer macro:
 **el macro para funcionar como caja de cambios, alterna entre N, p1, p2**
 
 ---------------------------------------------------------------
+<img width="1024" height="512" alt="532165089-3956ce7c-4f1b-49bb-8586-029b14da9058" src="https://github.com/user-attachments/assets/9660fc38-eff6-432e-81dd-d643d50e72c8" />
+
+<img width="984" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8d28ccc-7d6a-460a-b255-a662ae52c3ed" />
+
+<img width="130" height="48" alt="image" src="https://github.com/user-attachments/assets/180ee32f-1f69-45ae-b602-303112ef1518" />
+<img width="135" height="50" alt="image" src="https://github.com/user-attachments/assets/e4e2f86c-a1b0-4a65-893c-c82763858ebe" />
+<img width="151" height="64" alt="image" src="https://github.com/user-attachments/assets/eab16047-0dbd-4e4c-b0ce-c28b56e39594" />
+
+
 
 
 Ahora si ese gato correra en el grand prix como los grandes :D
 
 https://youtu.be/Y01y15wkT48
+
 
