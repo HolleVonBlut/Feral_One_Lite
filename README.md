@@ -37,7 +37,7 @@ primer macro:
 segundo macro:
   /startattack
   /run DoFeralRotation("boss")
-**el macro optimiazado para peleas contra boses, clearcasting restringido unicamente a Shred**
+**el macro optimizado para peleas contra boses, clearcasting restringido unicamente a Shred**
 
 tercer macro:
   /fo cycle
@@ -58,5 +58,6 @@ tercer macro:
 Ahora si ese gato correra en el grand prix como los grandes :D
 
 https://youtu.be/Y01y15wkT48
+
 
 
